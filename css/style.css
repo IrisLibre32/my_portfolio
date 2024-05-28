@@ -55,7 +55,7 @@ footer>.divider {
     justify-content: center;
     align-items: center;
     flex-wrap: wrap;
-    width: 100%;
+    width: 90%;
     margin: 10px 0px 0px;
     gap: 30px;
 }
