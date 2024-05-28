@@ -54,7 +54,9 @@ footer>.divider {
     flex-direction: row;
     justify-content: center;
     align-items: center;
+    flex-wrap: wrap;
     width: 100%;
+    padding: 30px 0 0;
     gap: 50px;
 }
 
@@ -63,8 +65,8 @@ footer>.divider {
 }
 
 .content>section>.banner>.img {
-    width: 400px;
-    height: 520px;
+    max-width: 400px;
+    max-height: 520px;
 }
 
 .content>section>.banner>.img>img {
